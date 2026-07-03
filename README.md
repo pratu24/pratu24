@@ -1,4 +1,4 @@
-👋 Hi, I’m Pratiksha Pawar
+# 👨🏻‍💻 Hi, I’m Pratiksha Pawar
 
 Data Scientist | Analytics Engineer | Data Engineer | GenAI Enthusiast
 

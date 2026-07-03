@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Analytics+Engineer;Building+Scalable+Data+Pipelines+and+Dashboards;SQL+%7C+Python+%7C+Power+BI+%7C+Snowflake+%7C+dbt;AWS+Cloud+Analytics+%7C+ETL+%7C+Data+Modeling;Turning+Raw+Data+into+Business+Decisions" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -16,7 +16,7 @@
 
 I’m a data professional passionate about helping businesses turn raw data into meaningful insights and intelligent solutions.
 
-I enjoy working across the full data lifecycle — from building clean and reliable data pipelines, to analyzing datasets for trends, to creating dashboards and models that support better business decisions.
+I enjoy working across the full data lifecycle — from building clean and reliable data pipelines to analyzing datasets for trends to creating dashboards and models that support better business decisions.
 
 My experience spans Data Analytics, Data Engineering, and Data Science, with hands-on work in Python, SQL, Snowflake, AWS, Power BI, Salesforce, and Zoho CRM. I’m also actively exploring Generative AI, LLMs, and RAG-based applications to build modern AI-powered solutions.
 
@@ -78,3 +78,5 @@ When I’m not working with data, I’m usually learning new AI tools, improving
   <img src="https://img.shields.io/badge/Scikit--learn-Beginner-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn Badge">
   <img src="https://img.shields.io/badge/EDA-Advanced-9B59B6?style=flat" alt="EDA Badge">
 </p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />

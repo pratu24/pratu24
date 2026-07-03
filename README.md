@@ -12,7 +12,7 @@
   <a href="mailto:pratiksha.pawar18@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-🚀 About Me
+👨🏻‍💻 About Me
 
 I’m a data professional passionate about helping businesses turn raw data into meaningful insights and intelligent solutions.
 
@@ -30,7 +30,7 @@ When I’m not working with data, I’m usually learning new AI tools, improving
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
-## 🌱 Currently Learning 
+## Currently Learning 
 
 - LLM, LangChain, RAG
 - Cloud data warehousing with Google BigQuery

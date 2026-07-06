@@ -23,10 +23,6 @@ My experience spans Data Analytics, Data Engineering, and Data Science, with han
 I particularly enjoy simplifying complex data problems and turning them into clear, actionable insights that teams can actually use.
 
 When I’m not working with data, I’m usually learning new AI tools, improving my projects, or exploring how emerging technologies like LLMs are changing the way we work with information.
-   
-## 🔭 What I'm Currently Working On 
-
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]
 
 ## Currently Learning 
 

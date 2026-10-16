@@ -24,6 +24,7 @@ My strength is taking messy, complex business problems and turning them into **c
 - **Data Science & Machine Learning**: customer segmentation with K-Means clustering, classification models, survival analysis, and SHAP-based model explainability in Python and PySpark
 - **Analytics & Experimentation**: exploratory analysis, statistical testing, and A/B testing tied to business questions
 - **Data Storytelling**: translating findings into clear recommendations for technical and business audiences
+- **Agile Delivery & Stakeholder Management**: working in Agile teams across the full SDLC, from gathering requirements with stakeholders to delivering, testing, and iterating on data solutions
 
 ### 🛠️ Tech Stack
 

@@ -1,15 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:2E9EF7&height=190&section=header&text=Pratiksha%20Pawar&fontSize=50&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" alt="Pratiksha Pawar" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:2E9EF7&height=190&section=header&text=Pratiksha%20Pawar&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Turning%20data%20into%20decisions&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Pratiksha Pawar" />
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst;Analytics+Engineer;Data+Scientist;Data+Quality+%26+Governance;Building+with+LLMs+%26+RAG" alt="Data Analyst · Analytics Engineer · Data Scientist · Data Quality & Governance" />
-</p>
-
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=2E9EF7&center=true&vCenter=true&width=600&height=36&lines=Data+Analyst;Analytics+Engineer;Data+Scientist;Data+Quality+%26+Governance;Building+with+LLMs+%26+RAG" alt="Data Analyst · Analytics Engineer · Data Scientist · Data Quality & Governance" /><br/>
 <a href="https://www.linkedin.com/in/pratiksha-pawar-aa370886/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:pratiksha.pawar18@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://github.com/pratu24?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
-<b>8+ years turning data into decisions across Banking · CPG · CRM · Healthcare</b>
+<b>Banking · CPG · CRM · Healthcare</b>
 </p>
 
 ---

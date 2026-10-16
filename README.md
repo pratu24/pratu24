@@ -1,78 +1,69 @@
-## Hi there, I'm Pratiksha Pawar 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:2E9EF7&height=190&section=header&text=Pratiksha%20Pawar&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Data%20Analyst%20%C2%B7%20Analytics%20Engineer%20%C2%B7%20Data%20Scientist&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Pratiksha Pawar" />
 
-<div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+Analytics+Engineer+%7C+Data+Scientist;SQL+%7C+Python+%7C+Power+BI+%7C+Snowflake+%7C+dbt+%7C+AWS;Machine+Learning+%7C+NLP+%7C+Time+Series+Focus;Exploring+LLMs+%7C+RAG+%7C+Modern+AI+Systems;Turning+Data+and+Models+into+Business+Impact" alt="Typing SVG" />
-</div>
-
-<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/pratiksha-pawar-aa370886/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:pratiksha.pawar18@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/pratiksha-pawar-aa370886/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:pratiksha.pawar18@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://github.com/pratu24?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-👨🏻‍💻 About Me
-
-I’m a data professional passionate about helping businesses turn raw data into meaningful insights and intelligent solutions.
-
-I enjoy working across the full data lifecycle — from building clean and reliable data pipelines to analyzing datasets for trends to creating dashboards and models that support better business decisions.
-
-My experience spans Data Analytics, Data Engineering, and Data Science, with hands-on work in Python, SQL, Snowflake, AWS, Power BI, Salesforce, and Zoho CRM. I’m also actively exploring Generative AI, LLMs, and RAG-based applications to build modern AI-powered solutions.
-
-I particularly enjoy simplifying complex data problems and turning them into clear, actionable insights that teams can actually use.
-
-When I’m not working with data, I’m usually learning new AI tools, improving my projects, or exploring how emerging technologies like LLMs are changing the way we work with information.
-
-## Currently Learning 
-
-- LLM, LangChain, RAG
-- Cloud data warehousing with Google BigQuery
-
-## 🛠️ Technical Skillset
-
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
-#### Data Analysis & Visualization
-<p>
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
-  <img src="https://img.shields.io/badge/Data%20Storytelling-Advanced-6C63FF?style=flat" alt="Data Storytelling Badge">
+<p align="center">
+<b>8+ years turning data into decisions across Banking · CPG · CRM · Healthcare</b>
 </p>
 
-#### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-  <img src="https://img.shields.io/badge/Pandas-Intermediate-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas Badge">
-  <img src="https://img.shields.io/badge/NumPy-Intermediate-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy Badge">
-  <img src="https://img.shields.io/badge/Automation-Intermediate-FF9F1C?style=flat" alt="Automation Badge">
-</p>
+---
 
-#### Data Engineering, Cloud & Platforms
-<p>
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Badge">
-  <img src="https://img.shields.io/badge/Snowflake-Data%20Warehouse-29B5E8?style=flat&logo=snowflake&logoColor=white" alt="Snowflake Badge">
-  <img src="https://img.shields.io/badge/dbt-Data%20Transformation-FF694B?style=flat&logo=dbt&logoColor=white" alt="dbt Badge">
-  <img src="https://img.shields.io/badge/REST%20APIs-Hands--on-4A90E2?style=flat&logo=fastapi&logoColor=white" alt="API Badge">
-  <img src="https://img.shields.io/badge/Data%20Cleaning-Advanced-2ECC71?style=flat" alt="Data Cleaning Badge">
-</p>
+### 👋 About Me
 
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Beginner-45B7D1?style=flat" alt="Predictive Modeling Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Badge">
-</p>
+I'm a data professional who works across the full data lifecycle, from building reliable pipelines and modeling data in the warehouse to delivering the dashboards and analyses leaders use to make decisions.
 
-#### Machine Learning & Data Science (Learning Track)
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Beginner-F39C12?style=flat" alt="ML Badge">
-  <img src="https://img.shields.io/badge/Scikit--learn-Beginner-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn Badge">
-  <img src="https://img.shields.io/badge/EDA-Advanced-9B59B6?style=flat" alt="EDA Badge">
-</p>
+My strength is taking messy, complex business problems and turning them into **clear metrics, trusted data, and actionable insight**. I'm now extending that foundation into **Generative AI**, building LLM- and RAG-powered applications on top of well-governed data.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+### 💼 What I Do Best
+
+- **Business Intelligence**: KPI frameworks and executive dashboards in Power BI and Excel that teams actually adopt
+- **Advanced SQL & Data Modeling**: complex transformations and warehouse modeling in Snowflake with dbt
+- **Data Quality**: cleaning, validating, and profiling data so every downstream number can be trusted
+- **Analytics & Experimentation**: exploratory analysis, statistical testing, and A/B testing tied to business questions
+- **Data Storytelling**: translating findings into clear recommendations for technical and business audiences
+
+### 🛠️ Tech Stack
+
+**Analytics & BI**<br/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMCAxMmExIDEgMCAwIDEgMSAxdjExSDRhMSAxIDAgMCAxLTEtMVYxM2ExIDEgMCAwIDEgMS0xaDZabS0yLS41VjdhMSAxIDAgMCAxIDEtMWg2YTEgMSAwIDAgMSAxIDF2MTdoLTQuNVYxM2ExLjUgMS41IDAgMCAwLTEuNS0xLjVIOFptNS02VjFhMSAxIDAgMCAxIDEtMWg2YTEgMSAwIDAgMSAxIDF2MjJhMSAxIDAgMCAxLTEgMWgtMy41VjdBMS41IDEuNSAwIDAgMCAxNSA1LjVoLTJaIi8%2BPC9zdmc%2B&logoColor=white" alt="Power BI" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMyAxLjVxLjQxIDAgLjcuMy4zLjI5LjMuN3YxOXEwIC40MS0uMy43LS4yOS4zLS43LjNIN3EtLjQxIDAtLjctLjMtLjMtLjI5LS4zLS43VjE4SDFxLS40MSAwLS43LS4zLS4zLS4yOS0uMy0uN1Y3cTAtLjQxLjMtLjdRLjU4IDYgMSA2aDVWMi41cTAtLjQxLjMtLjcuMjktLjMuNy0uM3pNNiAxMy4yOGwxLjQyIDIuNjZoMi4xNGwtMi4zOC0zLjg3IDIuMzQtMy44SDcuNDZsLTEuMyAyLjQtLjA1LjA4LS4wNC4wOS0uNjQtMS4yOC0uNjYtMS4yOUgyLjU5bDIuMjcgMy44Mi0yLjQ4IDMuODVoMi4xNnpNMTQuMjUgMjF2LTNINy41djN6bTAtNC41di0zLjc1SDEydjMuNzV6bTAtNS4yNVY3LjVIMTJ2My43NXptMC01LjI1VjNINy41djN6bTguMjUgMTV2LTNoLTYuNzV2M3ptMC00LjV2LTMuNzVoLTYuNzV2My43NXptMC01LjI1VjcuNWgtNi43NXYzLjc1em0wLTUuMjVWM2gtNi43NXYzWiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMS42NTQuMTc0VjIuMzc3SDkuNjgydi41OGgxLjk3MlY1LjE2aC42OTZWMi45NTdoMS45N3YtLjU4aC0xLjk3Vi4xNzRoLS4zNDh6bTYuMDMgMi4yNjJsLS4wMDIgMS42MjN2MS42MjNoLTIuOTU3di45MjdoMi45NTd2My4xODhIMTguNzI1bC4wMTEtMS41ODIuMDItMS41NzYgMS40NjUtLjAyIDEuNDYtLjAxdi0uOTI3SDE4LjcyOFYyLjQzNmgtLjUyMnptLTEyLjQwNy4wNlY1LjY4NkgyLjI5MXYuOTI1SDUuMjc3VjkuODAxaC45ODVWNi42MWgzLjAxM3YtLjkyNUg2LjI2MlYyLjQ5Nkg1Ljc3em02LjA4NiA1LjI3djMuNTkzSDguMDZ2MS4xODhoMy4zMDR2My41OTZoMS4yOHYtMy41OTZIMTUuOTUzdi0xLjE4OEgxMi42NDNWNy43NjZoLS42Mzd6bTkuNzIxIDEuNTV2Mi4yMjFoLTIuMDEydi44MTFoMi4wMTJ2Mi4yNjFoLjg4N3YtMi4yNjFIMjR2LS44MTFoLTIuMDI5VjkuMzE3aC0uNDIyem0tMTkuMTExLjEzMVYxMS42MjFIMHYuNjIxSDEuOTczdjIuMTk0SDIuNjR2LTIuMTk0aDJ2LS42MkgyLjYwOVY5LjQ0NmgtLjMxOHptMTUuNzA5IDQuNTE2djMuMjU0aC0zLjAxNnYuOTI3aDMuMDE2djMuMjE3aDEuMDcydi0zLjIxNkgyMS43NHYtLjkyOEgxOC43NTR2LTMuMjU0aC0uNTMzem0tMTIuNDYzLjAwOHYzLjI0NkgyLjI2MnYuOTI4aDIuOTU3djMuMTg5SDYuMzJ2LTMuMTg5aDIuOTU1di0uOTI4SDYuMzJWMTMuOTdoLS41NXptNi4zMTYgNC41NzhsLjAwMiAxLjEwM3YxLjFIOS41NjZ2LjgxMmgxLjk3MXYyLjI2MmguOTI4bC4wMTItMS4xMTkuMDE3LTEuMTQzSDE0LjQ2M3YtLjgxMmgtMlYxOC41NDloLS40NjV6Ii8%2BPC9zdmc%2B&logoColor=white" alt="Tableau" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+
+**Data Engineering & Cloud**<br/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xNy45MDA0IDkuMzc2M2E4LjE0ODggOC4xNDg4IDAgMCAwLTMuMDQyMS0zLjEyMDZsMS43NzA4LjgzODVhMTAuMjg3NCAxMC4yODc0IDAgMCAxIDMuNzQgMy4wMDA3bDMuMjM0LTUuOTI5NWEyLjg1NDYgMi44NTQ2IDAgMCAwLS4wNjExLTIuOTYwNEMyMi43NTY2LjAzNzEgMjEuMjExMi0uMzQwOSAxOS45NzU0LjMzMjdsLTUuODc0OSAzLjIxMDFhNC4zNjEyIDQuMzYxMiAwIDAgMS00LjE3NjEgMEw0LjE3NjkuNDA4YTIuODU0NSAyLjg1NDUgMCAwIDAtMi45NTkyLjA2MzJjLTEuMTY3My43ODUzLTEuNTQ1MiAyLjMzLS44NzIzIDMuNTY1NUwzLjU1IDkuOTEwNmE0LjM2MTIgNC4zNjEyIDAgMCAxIDAgNC4xNzcybC0zLjEyNzIgNS43NDNhMi44NiAyLjg2IDAgMCAwIC4wODUgMi45OTc0Yy43OTQgMS4xNDM4IDIuMzIyNSAxLjUwNTQgMy41NDQ4LjgzODVsNi4wNTgxLTMuMzA0OWExMC4yODc3IDEwLjI4NzcgMCAwIDEtMy4wMDUxLTMuNzQ1NGwtLjgzNzQtMS43NzA4YTguMTQ4IDguMTQ4IDAgMCAwIDMuMTIwNiAzLjA0MjFsMTAuNTgzMiA1Ljc3OWMxLjIyMTMuNjY2IDIuNzQ4MS4zMDU1IDMuNTQyNi0uODM2M2EyLjg2OTkgMi44Njk5IDAgMCAwIC4wNzk2LTMuMDAxOEwxNy45MDA0IDkuMzc2M3ptMy4zODAxLTcuNzM1MWMuNjAyMiAwIDEuMDkwNC40ODgyIDEuMDkwNCAxLjA5MDRzLS40ODgyIDEuMDkwNC0xLjA5MDQgMS4wOTA0LTEuMDkwNC0uNDg4Mi0xLjA5MDQtMS4wOTA0LjQ4ODItMS4wOTA0IDEuMDkwNC0xLjA5MDR6TTIuNzQ0MiAzLjgyMmMtLjYwMjIgMC0xLjA5MDQtLjQ4ODItMS4wOTA0LTEuMDkwNHMuNDg4Mi0xLjA5MDQgMS4wOTA0LTEuMDkwNCAxLjA5MDQuNDg4MiAxLjA5MDQgMS4wOTA0UzMuMzQ2NCAzLjgyMiAyLjc0NDIgMy44MjJ6bTAgMTguNTM2M2MtLjYwMjIgMC0xLjA5MDQtLjQ4ODItMS4wOTA0LTEuMDkwNCAwLS42MDIyLjQ4ODItMS4wOTA0IDEuMDkwNC0xLjA5MDRzMS4wOTA0LjQ4ODIgMS4wOTA0IDEuMDkwNGMwIC42MDIyLS40ODgyIDEuMDkwNC0xLjA5MDQgMS4wOTA0em0xMC4zNTg1LTExLjQ0ODljLTEuMjAwOC0uMDAzNS0yLjE3Ny45NjcyLTIuMTgwNSAyLjE2NzlhMi4xNzM4IDIuMTczOCAwIDAgMCAuNzA1MiAxLjYwOTFjLTEuNDg3Mi0uMjA5MS0yLjUyMzQtMS41ODQzLTIuMzE0Mi0zLjA3MTYuMjA5MS0xLjQ4NzIgMS41ODQzLTIuNTIzNCAzLjA3MTYtMi4zMTQyYTIuNzE5NCAyLjcxOTQgMCAwIDEgMi4zMTQyIDIuMzE0MiAyLjE2MjMgMi4xNjIzIDAgMCAwLTEuNTk2My0uNzA1NHptOC4xNzc4IDExLjQ0ODljLS42MDIyIDAtMS4wOTA0LS40ODgyLTEuMDkwNC0xLjA5MDQgMC0uNjAyMi40ODgyLTEuMDkwNCAxLjA5MDQtMS4wOTA0czEuMDkwNC40ODgyIDEuMDkwNCAxLjA5MDRjMCAuNjAyMi0uNDg4MiAxLjA5MDQtMS4wOTA0IDEuMDkwNHoiLz48L3N2Zz4%3D&logoColor=white" alt="dbt" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik02Ljc2IDEwLjAzYzAgLjI5Ni4wMy41MzUuMDguNzEuMDYuMTc2LjE0LjM2OC4yNS41NzYuMDQuMDYuMDU2LjEyLjA1Ni4xOCAwIC4wOC0uMDQ4LjE2LS4xNTIuMjRsLS41MDMuMzNhLjM4My4zOCAwIDAgMS0uMjA4LjA3Yy0uMDggMC0uMTYtLjA0LS4yMzktLjExMmEyLjQ3IDIuNDcgMCAwIDEtLjI4Ny0uMzc1IDYuMTggNi4xOCAwIDAgMS0uMjQ4LS40NzFjLS42MjIuNzMtMS40MCAxLjEwLTIuMzQgMS4xMC0uNjcgMC0xLjIwLS4xOTEtMS41OS0uNTc0LS4zOTEtLjM4NC0uNTktLjg5NC0uNTktMS41MyAwLS42NzguMjMtMS4yMy43Mi0xLjY0LjQ4Ny0uNDE1IDEuMTMtLjYyMyAxLjk1LS42MjMuMjcgMCAuNTUxLjAyLjg0Ni4wNi4yOTYuMDQuNi4xMC45MTguMTd2LS41ODNjMC0uNjA3LS4xMjctMS4wMy0uMzc1LTEuMjctLjI1NS0uMjQ4LS42ODYtLjM2Ny0xLjMtLjM2Ny0uMjggMC0uNTY4LjAzLS44NjMuMTAtLjI5NS4wNy0uNTgzLjE2LS44NjIuMjdhMi4yOCAyLjI4IDAgMCAxLS4yOC4xMC40ODguNDggMCAwIDEtLjEyNy4wMmMtLjExMiAwLS4xNjgtLjA4LS4xNjgtLjI0N3YtLjM5MWMwLS4xMjguMDEtLjIyNC4wNS0uMjhhLjU5Ny41OSAwIDAgMSAuMjI0LS4xNjdjLjI3OS0uMTQ0LjYxLS4yNjQgMS4wMC0uMzZhNC44NCA0Ljg0IDAgMCAxIDEuMjQtLjE1MWMuOTUgMCAxLjY0LjIxNiAyLjA5LjY0Ny40My40My42NiAxLjA4LjY2MiAxLjk2djIuNTh6bS0zLjI0IDEuMjFjLjI2MyAwIC41MzQtLjA0OC44Mi0uMTQ0LjI4LS4wOTYuNTQtLjI3MS43NS0uNTEuMTItLjE1Mi4yMi0uMzIuMjctLjUxMi4wNC0uMTkxLjA4LS40MjMuMDgtLjY5NHYtLjMzNWE2LjY2IDYuNjYgMCAwIDAtLjczNS0uMTM2IDYuMDIgNi4wMiAwIDAgMC0uNzUtLjA0OGMtLjUzNSAwLS45MjYuMTAtMS4xOS4zMi0uMjYzLjIxLS4zOS41MS0uMzkuOTEgMCAuMzc1LjA5LjY1NS4yOS44NDYuMTkuMi40Ny4yOS44MzguMjl6bTYuNDEuODZjLS4xNDQgMC0uMjQtLjAyNC0uMzA0LS4wOC0uMDY0LS4wNDgtLjEyLS4xNi0uMTY4LS4zMTFMNy41OCA1LjU1YTEuMzkgMS4zOSAwIDAgMS0uMDcyLS4zMmMwLS4xMjguMDYtLjIuMTktLjJoLjc4M2MuMTUxIDAgLjI1NS4wMi4zMS4wOC4wNi4wNDguMTEuMTYuMTYuMzFsMS4zNCA1LjI4IDEuMjQtNS4yOGMuMDQtLjE2LjA4LS4yNjQuMTUtLjMxMmEuNTQ5LjU0IDAgMCAxIC4zMi0uMDhoLjYzOGMuMTUyIDAgLjI1Ni4wMi4zMi4wOC4wNi4wNDguMTIuMTYuMTUuMzEybDEuMjYgNS4zNCAxLjM4LTUuMzRjLjA0OC0uMTYuMTAtLjI2NC4xNi0uMzEyYS41Mi41MiAwIDAgMSAuMzExLS4wOGguNzQzYy4xMjcgMCAuMi4wNi4yLjIgMCAuMDQtLjAwOS4wOC0uMDE3LjEyYTEuMTMgMS4xMyAwIDAgMS0uMDU2LjJsLTEuOTIgNi4xN2MtLjA0OC4xNi0uMTA0LjI2LS4xNjguMzFhLjUxLjUxIDAgMCAxLS4zMDMuMDhoLS42ODdjLS4xNTEgMC0uMjU1LS4wMjQtLjMyLS4wOC0uMDYzLS4wNTYtLjExOS0uMTYtLjE1LS4zMmwtMS4yMy01LjE0LTEuMjMgNS4xNGMtLjA0LjE2LS4wODcuMjYtLjE1LjMyLS4wNjUuMDUtLjE3Ny4wOC0uMzIuMDh6bTEwLjI1LjIxNWMtLjQxNSAwLS44My0uMDQ4LTEuMjItLjE0My0uMzk5LS4wOTYtLjcxLS4yLS45MTgtLjMyLS4xMjgtLjA3MS0uMjE1LS4xNTEtLjI0Ny0uMjIzYS41NjMuNTYgMCAwIDEtLjA0OC0uMjI0di0uNDA3YzAtLjE2Ny4wNi0uMjQ3LjE4LS4yNDcuMDQgMCAuMDk2LjAwLjE0NC4wMi4wNDguMDEuMTIuMDQuMi4wOC4yNy4xMi41Ni4yMTUuODcuMjc5LjMxLjA2NC42My4wOS45NS4wOS41MDIgMCAuODk0LS4wODggMS4xNi0uMjY0YS44Ni44NiAwIDAgMCAuNDE1LS43NTguNzcuNzc3IDAgMCAwLS4yMTUtLjU1OWMtLjE0NC0uMTUxLS40MTYtLjI4Ny0uODA3LS40MTVsLTEuMTUtLjM2Yy0uNTgzLS4xODMtMS4wMS0uNDU0LTEuMjctLjgxM2ExLjkwIDEuOTAgMCAwIDEtLjQtMS4xNWMwLS4zMzUuMDctLjYzLjIxLS44ODYuMTQtLjI1NS4zMy0uNDc5LjU3LS42NTQuMjQtLjE4NC41MS0uMzIuODMtLjQxNS4zMi0uMDk2LjY1LS4xMzYgMS4wMC0uMTM2LjE3IDAgLjM1OS4wMC41MzUuMDMuMTgzLjAyLjM1LjA1LjUxOC4wOC4xNi4wNC4zMS4wOC40NS4xMjcuMTQuMDQ4LjI1LjA5Ni4zMy4xNDRhLjY5LjY5IDAgMCAxIC4yNC4yLjQzLjQzIDAgMCAxIC4wNzEuMjZ2LjM3NWMwIC4xNjgtLjA2NC4yNS0uMTg0LjI1YS44My44MyAwIDAgMS0uMzAzLS4wOTYgMy42NSAzLjY1IDAgMCAwLTEuNTMtLjMxMWMtLjQ1NSAwLS44MTUuMDctMS4wNi4yMjMtLjI0OC4xNS0uMzc1LjM4LS4zNzUuNzEgMCAuMjI0LjA4LjQxLjI0LjU2LjE1OS4xNS40NTQuMzAuODc3LjQ0bDEuMTMuMzU4Yy41NzQuMTguOTkuNDQgMS4yMy43NjcuMjQuMzI3LjM2LjcwMi4zNiAxLjExIDAgLjM0My0uMDcyLjY1LS4yMDcuOTItLjE0NC4yNy0uMzM2LjUxLS41ODMuNzAtLjI0OC4yLS41NDMuMzQtLjg4Ni40NC0uMzYuMTEtLjczNC4xNi0xLjE0LjE2N3pNMjEuNjkgMTYuMjBjLTIuNjIgMS45NC02LjQ0IDIuOTYtOS43MiAyLjk2LTQuNTkgMC04Ljc0LTEuNy0xMS44Ny00LjUyLS4yNDctLjIyMy0uMDI0LS41MjcuMjctLjM1MSAzLjM4IDEuOTYgNy41NSAzLjE1IDExLjg3IDMuMTUgMi45MSAwIDYuMTEtLjYwNyA5LjA2LTEuODUuNDM5LS4yLjgxLjI4Ny4zOC42MDd6TTIyLjc5IDE0Ljk2Yy0uMzM2LS40My0yLjIyLS4yMDctMy4wNy0uMTAzLS4yNTUuMDMtLjI5NS0uMTkyLS4wNjMtLjM2IDEuNS0xLjA1IDMuOTYtLjc1IDQuMjUtLjM5OS4yOC4zNi0uMDggMi44Mi0xLjQ4IDQuMDAtLjIxNS4xOC0uNDIzLjA4LS4zMjctLjE1MS4zMi0uNzkgMS4wMy0yLjU3LjY5LTIuOTl6Ii8%2BPC9zdmc%2B&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+
+**Programming & Data Science**<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+
+**CRM & Generative AI**<br/>
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMC4wMDYgNS40MTVhNC4xOTUgNC4xOTUgMCAwMTMuMDQ1LTEuMzA2YzEuNTYgMCAyLjk1NC45IDMuNjkgMi4yMDUuNjMtLjMgMS4zNS0uNDUgMi4xLS40NSAyLjg1IDAgNS4xNTkgMi4zNCA1LjE1OSA1LjIycy0yLjMxIDUuMjItNS4xNzYgNS4yMmMtLjM0NSAwLS42OS0uMDQ0LTEuMDItLjEwNGEzLjc1IDMuNzUgMCAwMS0zLjMgMS45NWMtLjYgMC0xLjE1NS0uMTUtMS42NS0uMzc1QTQuMzE0IDQuMzE0IDAgMDE4Ljg4IDIwLjRhNC4zMDIgNC4zMDIgMCAwMS00LjA1LTIuODJjLS4yNy4wNjItLjU0LjA3Ni0uODI1LjA3Ni0yLjIwNCAwLTQuMDA1LTEuOC00LjAwNS00LjA1IDAtMS41LjgxMS0yLjgwNSAyLjAxLTMuNTEtLjI1NS0uNTctLjM5LTEuMi0uMzktMS44NDYgMC0yLjU4IDIuMS00LjY1IDQuNjUtNC42NSAxLjUzIDAgMi44NS43MDUgMy43MiAxLjgiLz48L3N2Zz4%3D&logoColor=white" alt="Salesforce" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LLMs%20&%20RAG-412991?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMi4yODE5IDkuODIxMWE1Ljk4NDcgNS45ODQ3IDAgMCAwLS41MTU3LTQuOTEwOCA2LjA0NjIgNi4wNDYyIDAgMCAwLTYuNTA5OC0yLjlBNi4wNjUxIDYuMDY1MSAwIDAgMCA0Ljk4MDcgNC4xODE4YTUuOTg0NyA1Ljk4NDcgMCAwIDAtMy45OTc3IDIuOSA2LjA0NjIgNi4wNDYyIDAgMCAwIC43NDI3IDcuMDk2NiA1Ljk4IDUuOTggMCAwIDAgLjUxMSA0LjkxMDcgNi4wNTEgNi4wNTEgMCAwIDAgNi41MTQ2IDIuOTAwMUE1Ljk4NDcgNS45ODQ3IDAgMCAwIDEzLjI1OTkgMjRhNi4wNTU3IDYuMDU1NyAwIDAgMCA1Ljc3MTgtNC4yMDU4IDUuOTg5NCA1Ljk4OTQgMCAwIDAgMy45OTc3LTIuOTAwMSA2LjA1NTcgNi4wNTU3IDAgMCAwLS43NDc1LTcuMDcyOXptLTkuMDIyIDEyLjYwODFhNC40NzU1IDQuNDc1NSAwIDAgMS0yLjg3NjQtMS4wNDA4bC4xNDE5LS4wODA0IDQuNzc4My0yLjc1ODJhLjc5NDguNzk0OCAwIDAgMCAuMzkyNy0uNjgxM3YtNi43MzY5bDIuMDIgMS4xNjg2YS4wNzEuMDcxIDAgMCAxIC4wMzguMDUydjUuNTgyNmE0LjUwNCA0LjUwNCAwIDAgMS00LjQ5NDUgNC40OTQ0em0tOS42NjA3LTQuMTI1NGE0LjQ3MDggNC40NzA4IDAgMCAxLS41MzQ2LTMuMDEzN2wuMTQyLjA4NTIgNC43ODMgMi43NTgyYS43NzEyLjc3MTIgMCAwIDAgLjc4MDYgMGw1Ljg0MjgtMy4zNjg1djIuMzMyNGEuMDgwNC4wODA0IDAgMCAxLS4wMzMyLjA2MTVMOS43NCAxOS45NTAyYTQuNDk5MiA0LjQ5OTIgMCAwIDEtNi4xNDA4LTEuNjQ2NHpNMi4zNDA4IDcuODk1NmE0LjQ4NSA0LjQ4NSAwIDAgMSAyLjM2NTUtMS45NzI4VjExLjZhLjc2NjQuNzY2NCAwIDAgMCAuMzg3OS42NzY1bDUuODE0NCAzLjM1NDMtMi4wMjAxIDEuMTY4NWEuMDc1Ny4wNzU3IDAgMCAxLS4wNzEgMGwtNC44MzAzLTIuNzg2NUE0LjUwNCA0LjUwNCAwIDAgMSAyLjM0MDggNy44NzJ6bTE2LjU5NjMgMy44NTU4TDEzLjEwMzggOC4zNjQgMTUuMTE5MiA3LjJhLjA3NTcuMDc1NyAwIDAgMSAuMDcxIDBsNC44MzAzIDIuNzkxM2E0LjQ5NDQgNC40OTQ0IDAgMCAxLS42NzY1IDguMTA0MnYtNS42NzcyYS43OS43OSAwIDAgMC0uNDA3LS42Njd6bTIuMDEwNy0zLjAyMzFsLS4xNDItLjA4NTItNC43NzM1LTIuNzgxOGEuNzc1OS43NzU5IDAgMCAwLS43ODU0IDBMOS40MDkgOS4yMjk3VjYuODk3NGEuMDY2Mi4wNjYyIDAgMCAxIC4wMjg0LS4wNjE1bDQuODMwMy0yLjc4NjZhNC40OTkyIDQuNDk5MiAwIDAgMSA2LjY4MDIgNC42NnpNOC4zMDY1IDEyLjg2M2wtMi4wMi0xLjE2MzhhLjA4MDQuMDgwNCAwIDAgMS0uMDM4LS4wNTY3VjYuMDc0MmE0LjQ5OTIgNC40OTkyIDAgMCAxIDcuMzc1Ny0zLjQ1MzdsLS4xNDIuMDgwNUw4LjcwNCA1LjQ1OWEuNzk0OC43OTQ4IDAgMCAwLS4zOTI3LjY4MTN6bTEuMDk3Ni0yLjM2NTRsMi42MDItMS40OTk4IDIuNjA2OSAxLjQ5OTh2Mi45OTk0bC0yLjU5NzQgMS40OTk3LTIuNjA2Ny0xLjQ5OTdaIi8%2BPC9zdmc%2B&logoColor=white" alt="LLMs & RAG" />
+
+### 🚀 Featured Projects
+
+| Project | What it does | Built with |
+|:--|:--|:--|
+| [**Emergency Response Delay Risk Analytics**](https://github.com/pratu24/DAMO_699-4-Capstone-Project)<br/><sub>🎓 Capstone Project</sub> | Survival analysis and predictive modeling of fire-service response delays across Toronto and NYC, quantifying tail risk that averages miss | PySpark · Databricks · Lifelines · scikit-learn |
+| [**AI Data Governance**](https://github.com/pratu24/AI-Data-Governance) | Governance-first RAG platform feeding trusted, documented data to LLM applications | Python · SQL · RAG |
+| [**LAPD Crime Report Analysis**](https://github.com/pratu24/LAPD-Crime-Report-Analysis) | Exploratory analysis of Los Angeles crime data to surface trends and patterns | Python · Pandas |
+| [**Dialogflow ES Conversation Agent**](https://github.com/pratu24/DialogFlow_ES_Conversation_Agent) | Conversational agent built on Google Dialogflow ES | Python · Dialogflow |
+
+### 🌱 Currently Exploring
+
+LLMs, LangChain & RAG · Google BigQuery · Machine learning with scikit-learn
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:2E9EF7&height=100&section=footer" width="100%" alt="" />

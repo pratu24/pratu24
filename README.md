@@ -53,7 +53,6 @@ My strength is taking messy, complex business problems and turning them into **c
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
 <img src="https://img.shields.io/badge/Dataiku%20DSS-2AB1AC?style=for-the-badge&logo=dataiku&logoColor=white" alt="Dataiku DSS" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 
 **CRM & Generative AI**<br/>
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMC4wMDYgNS40MTVhNC4xOTUgNC4xOTUgMCAwMTMuMDQ1LTEuMzA2YzEuNTYgMCAyLjk1NC45IDMuNjkgMi4yMDUuNjMtLjMgMS4zNS0uNDUgMi4xLS40NSAyLjg1IDAgNS4xNTkgMi4zNCA1LjE1OSA1LjIycy0yLjMxIDUuMjItNS4xNzYgNS4yMmMtLjM0NSAwLS42OS0uMDQ0LTEuMDItLjEwNGEzLjc1IDMuNzUgMCAwMS0zLjMgMS45NWMtLjYgMC0xLjE1NS0uMTUtMS42NS0uMzc1QTQuMzE0IDQuMzE0IDAgMDE4Ljg4IDIwLjRhNC4zMDIgNC4zMDIgMCAwMS00LjA1LTIuODJjLS4yNy4wNjItLjU0LjA3Ni0uODI1LjA3Ni0yLjIwNCAwLTQuMDA1LTEuOC00LjAwNS00LjA1IDAtMS41LjgxMS0yLjgwNSAyLjAxLTMuNTEtLjI1NS0uNTctLjM5LTEuMi0uMzktMS44NDYgMC0yLjU4IDIuMS00LjY1IDQuNjUtNC42NSAxLjUzIDAgMi44NS43MDUgMy43MiAxLjgiLz48L3N2Zz4%3D&logoColor=white" alt="Salesforce" />

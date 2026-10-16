@@ -12,7 +12,7 @@
 
 ### 👋 About Me
 
-I'm a data professional who works across the full data lifecycle, from building reliable pipelines and modeling data in the warehouse to delivering the dashboards and analyses leaders use to make decisions.
+I'm a data professional who works across the full data lifecycle, from building reliable pipelines and modeling data in the warehouse to delivering the dashboards, analyses, and machine learning models leaders use to make decisions. On the data science side, I've built customer segmentation with K-Means clustering and predictive models that flag risk before it happens.
 
 My strength is taking messy, complex business problems and turning them into **clear metrics, trusted data, and actionable insight**. I'm now extending that foundation into **Generative AI**, building LLM- and RAG-powered applications on top of well-governed data.
 
@@ -21,6 +21,7 @@ My strength is taking messy, complex business problems and turning them into **c
 - **Business Intelligence**: KPI frameworks and executive dashboards in Power BI and Excel that teams actually adopt
 - **Advanced SQL & Data Modeling**: complex transformations and warehouse modeling in Snowflake with dbt
 - **Data Quality & Governance**: automated data validation with Great Expectations and data cataloging and governance in Collibra, so every downstream number can be trusted
+- **Data Science & Machine Learning**: customer segmentation with K-Means clustering, classification models, survival analysis, and SHAP-based model explainability in Python and PySpark
 - **Analytics & Experimentation**: exploratory analysis, statistical testing, and A/B testing tied to business questions
 - **Data Storytelling**: translating findings into clear recommendations for technical and business audiences
 
@@ -50,6 +51,7 @@ My strength is taking messy, complex business problems and turning them into **c
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/Dataiku%20DSS-2AB1AC?style=for-the-badge&logo=dataiku&logoColor=white" alt="Dataiku DSS" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 
@@ -69,6 +71,6 @@ My strength is taking messy, complex business problems and turning them into **c
 
 ### 🌱 Currently Exploring
 
-LLMs, LangChain & RAG · Google BigQuery · Machine learning with scikit-learn
+LLMs, LangChain & RAG · Google BigQuery
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:2E9EF7&height=100&section=footer" width="100%" alt="" />
